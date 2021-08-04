@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "a020f44d6e1e2cf13ad4fdd7b3e65505",
+    "content-hash": "ab2c7c61341481e19f6bcf3c4faa57e1",
     "packages": [
         {
             "name": "boxuk/dictator",
@@ -6956,7 +6956,7 @@
     "platform": [],
     "platform-dev": [],
     "platform-overrides": {
-        "php": "7.4",
+        "php": "8.0",
         "ext-mbstring": "1",
         "ext-intl": "1"
     },

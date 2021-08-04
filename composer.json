@@ -21,6 +21,13 @@
             },
             "type": "path",
             "url": "./premium-plugins/*"
+        },
+        {
+            "options": {
+                "symlink": false
+            },
+            "type": "path",
+            "url": "../wp-hook-attributes"
         }
     ],
     "config": {
@@ -30,7 +37,7 @@
         "sort-packages": true,
         "preferred-install": "dist",
         "platform": {
-            "php": "7.4",
+            "php": "8.0",
             "ext-mbstring": "1",
             "ext-intl": "1"
         }
